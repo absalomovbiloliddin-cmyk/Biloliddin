@@ -37,3 +37,4 @@ loginBtn.addEventListener("click", function () {
 });
 console.log("Hello world");
 
+console.log("salom");

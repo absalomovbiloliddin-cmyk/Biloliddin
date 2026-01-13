@@ -35,3 +35,5 @@ loginBtn.addEventListener("click", function () {
     result.innerHTML = "Login yoki parol noto'g'ri";
   }
 });
+console.log("Hello world");
+
